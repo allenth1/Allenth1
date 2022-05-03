@@ -1,1 +1,6 @@
-This repository is a reflection on everything learned in Web Mapping across the entire semester.  For this map I used items from each lab to piece together a final project that shows my accomplishments in the class.  The map I made is a choropleth map that shows tornadoes across the United States by the state they touched down in.  I classified the tornadoes by the state they touched down in, rather than where they traveled or ended.  My inspiration for this project was from an article I read on how cleanup of tornadoes effects farmers across the nation due to the time it takes to clear the land before replanting.  I hope you enjoy.
+This repository is a reflection on everything learned in Web Mapping across the entire semester.  
+For this map I used items from each lab to piece together a final project that shows my accomplishments in the class.  
+The map I made is a choropleth map that shows tornadoes across the United States by the state they touched down in.  
+I classified the tornadoes by the state they touched down in, rather than where they traveled or ended. 
+My inspiration for this project was from an article I read on how cleanup of tornadoes effects farmers across the nation 
+due to the time it takes to clear the land before replanting.  I hope you enjoy.
